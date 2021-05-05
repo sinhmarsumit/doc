@@ -1,0 +1,409 @@
+Message-ID: <1723922488.23459.1620110592009.JavaMail.confluence@padplx119.prod.adp.asx.com.au>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_23458_1043600836.1620110592008"
+
+------=_Part_23458_1043600836.1620110592008
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>API Responses</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>API Responses</h1>
+    <div class=3D"Section1">
+        <h3 id=3D"APIResponses-ResponseCodes"><span>Response Codes</span></=
+h3>
+<p><span>The following are common HTTP Response codes used in particular fo=
+r error handling (for a full list of all error codes see this&nbsp;<a href=
+=3D"/display/DIGIDOM/HTTP+Response+Codes">page</a>):</span></p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 100=
+.0%;">
+<colgroup>
+<col style=3D"width: 11.9119%;">
+<col style=3D"width: 20.5205%;">
+<col style=3D"width: 67.5676%;">
+</colgroup>
+<tbody>
+<tr>
+<th colspan=3D"1" class=3D"confluenceTh">Category</th>
+<th class=3D"confluenceTh">HTTP Status code</th>
+<th class=3D"confluenceTh">Description</th>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>2xx: Success</strong></td>
+<td class=3D"confluenceTd">200 OK</td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">Response to a=
+ successful GET, PUT, PATCH or DELETE. Can also be used for a POST that doe=
+sn't result in a creation.</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><p>201 Created</p></td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">Response to a=
+ POST that results in a creation. Should be combined with a&nbsp;<a href=3D=
+"http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.30" style=3D"=
+text-align: left;color: rgb(0,0,0);" class=3D"external-link" rel=3D"nofollo=
+w">Location header</a>&nbsp;pointing to the location of the new resource</s=
+pan></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">202 Accepted</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>The request has been accepted for processing. There=E2=80=99s nothing said=
+ about the actual processing, and the result of that, which might happen on=
+ a separate server, or batched.</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">204 No Content</td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">Response to a=
+ successful request that won't be returning a body (like a DELETE request)<=
+/span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>4xx: Client Error</strong>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd">400 Bad Request</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0=
+);">The request is malformed, such as if the body does not parse. </span></=
+p><p><span style=3D"color: rgb(0,0,0);">Error message should indicate which=
+ one and why. 400 is the generic client-side error status, used when no oth=
+er 4xx error code is appropriate.</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">401 Unauthorized</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>When no or invalid authentication details are provided. Also useful to tri=
+gger an auth popup if the API is used from a browser</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">403 Forbidden</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0=
+);">When authentication succeeded but authenticated user doesn't have acces=
+s to the resource</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">404 Not Found</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>When a non-existent resource is requested</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">405 Method Not Allowed</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0=
+);">When an HTTP method is being requested that isn't allowed for the authe=
+nticated user. </span></p><p><span style=3D"color: rgb(0,0,0);">For instanc=
+e, a read-only resource could support only GET and HEAD, while a controller=
+ resource might allow GET and POST, but not PUT or DELETE.</span></p><p><sp=
+an style=3D"color: rgb(0,0,0);">A 405 response must include the Allow heade=
+r, which lists the HTTP methods that the resource supports. For example:</s=
+pan></p><pre><span style=3D"color: rgb(0,0,0);">Allow: GET, POST</span></pr=
+e></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">410 Gone</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Indicates that the resource at this end point is no longer available. Usef=
+ul as a blanket response for old API versions</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">415 Unsupported Media Type</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>If incorrect content type was provided as part of the request</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">422 Unprocessable Entity</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Used for validation errors</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">429 Too Many Requests</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>When a request is rejected due to rate limiting</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>5xx: Server Error</strong>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd">500 Internal Server Error</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Servers are not working as expected. The request is probably valid but nee=
+ds to be requested again later.</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"APIResponses-ErrorHandling"><span style=3D"letter-spacing: 0.0px;=
+">Error Handling</span></h3>
+<p><span style=3D"letter-spacing: 0.0px;">Use HTTP status codes! but don't =
+overuse them. Use HTTP status codes and try to map them cleanly to relevant=
+ standard-based codes. In addition to HTTP response code for the errors, it=
+ is good to send meaningful error message. An error response must give cont=
+ext and actionable information. The below is the sample error message we ca=
+n use:</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "code": "string",
+  "errors": [
+    {
+      "location": "string",
+      "message": "string",
+      "reason": "string"
+    }
+  ],
+  "message": "string",
+  "status": "string",
+  "timestamp": "2019-09-17T05:05:54.637Z"
+}
+
+</pre>=20
+</div>
+</div>
+<ul>
+<li>Header vs Body&nbsp;
+<ul>
+<li>It is usually a good idea to use the headers for metadata and the body =
+for the data that is used by the business logic.</li>
+<li>HTTP Header example
+<ul>
+<li>Data access by router/firewall</li>
+<li>Security credentials</li>
+</ul></li>
+<li>Body - If the field is used in business logic, then it should go in bod=
+y.</li>
+</ul></li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_23458_1043600836.1620110592008--
